@@ -23,6 +23,10 @@ a:hover {
 /*
  * Base structure
  */
+ 
+ h1 {
+   font-family: 'Dancing Script', cursive;
+ }
 
 html,
 body {
