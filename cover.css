@@ -24,9 +24,7 @@ a:hover {
  * Base structure
  */
 
-
-
-html;
+html,
 body {
   height: 100%;
   background-image: url("https://nmbdesigner.files.wordpress.com/2013/01/dayandnight_bynicolecleary_final_sm.jpg");
