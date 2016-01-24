@@ -28,6 +28,10 @@ a:hover {
    font-family: 'Dancing Script', cursive;
     font-size: 70px;
  }
+ 
+ h5 {
+   font-family: 'Handlee', cursive;
+ }
 
 html,
 body {
