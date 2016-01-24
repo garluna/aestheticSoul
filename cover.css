@@ -24,11 +24,11 @@ a:hover {
  * Base structure
  */
 
-html {
+h3 {
   font-family: 'Dancing Script', cursive;
-  -webkit-text-size-adjust: 100%;
-      -ms-text-size-adjust: 100%;
 }
+
+html;
 body {
   height: 100%;
   background-image: url("https://nmbdesigner.files.wordpress.com/2013/01/dayandnight_bynicolecleary_final_sm.jpg");
