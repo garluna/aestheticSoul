@@ -40,7 +40,7 @@ body {
   background-image: url("https://nmbdesigner.files.wordpress.com/2013/01/dayandnight_bynicolecleary_final_sm.jpg");
   background-repeat: no-repeat;
   background-position: right top;
-  #background-size: cover;
+  background-size: cover;
   background-color: #333; 
 }
 body {
