@@ -37,7 +37,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-image: url("https://nmbdesigner.files.wordpress.com/2013/01/dayandnight_bynicolecleary_final_sm.jpg");
+  #background-image: url("https://nmbdesigner.files.wordpress.com/2013/01/dayandnight_bynicolecleary_final_sm.jpg");
   background-repeat: no-repeat;
   background-position: right top;
   background-size: cover;
@@ -174,4 +174,8 @@ body {
   .cover-container {
     width: 700px;
   }
+}
+
+inner cover {
+  background-image: url("https://nmbdesigner.files.wordpress.com/2013/01/dayandnight_bynicolecleary_final_sm.jpg");
 }
