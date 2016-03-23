@@ -131,6 +131,7 @@ body {
 .cover .btn-lg {
   padding: 10px 20px;
   font-weight: bold;
+  border-radius:0;
 }
 
 
